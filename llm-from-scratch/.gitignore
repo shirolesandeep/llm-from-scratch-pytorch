@@ -1,0 +1,24 @@
+
+---
+
+### 🧾 `.gitignore`
+
+```gitignore
+# Jupyter & Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints
+
+# Data, Weights, Logs
+*.pt
+*.ckpt
+*.log
+*.out
+
+# Environments
+.venv/
+env/
+venv/
+.DS_Store

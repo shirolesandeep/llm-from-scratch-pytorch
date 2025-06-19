@@ -53,9 +53,11 @@ OpenAI GPT-2 and GPT-3
 ✅ Status
 🚀 Started on: 08 06 2025
 
-📈 Updating daily
+📈 Updating alternat day 
 
 💬 Reach out if you'd like to learn/build together!
 
 🙌 Acknowledgements
 Thanks to the open-source community, educators, and AI researchers for making deep learning more accessible for all.
+
+#first commit
